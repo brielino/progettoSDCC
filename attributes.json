@@ -1,0 +1,71 @@
+[{
+  "Id": 1,
+  "Name": "Paolo",
+  "Surname": "Melissari",
+  "Sensors": [
+    {
+      "SensorId": 1,
+      "SensorType": "bloodPressure",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 2,
+      "SensorType": "heartbeat",
+      "Interval": 4,
+      "Value": 2
+    },
+    {
+      "SensorId": 3,
+      "SensorType": "bloodGlucose",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 4,
+      "SensorType": "movement",
+      "Interval": 6,
+      "Value": 1
+    },{
+      "SensorId": 5,
+      "SensorType": "position",
+      "Interval": 6,
+      "Value": 1
+  }]
+},
+  {"Id": 1,
+  "Name": "Gabriele",
+  "Surname": "Tummolo",
+  "Sensors": [
+    {
+      "SensorId": 1,
+      "SensorType": "bloodPressure",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 2,
+      "SensorType": "heartbeat",
+      "Interval": 4,
+      "Value": 2
+    },
+    {
+      "SensorId": 3,
+      "SensorType": "bloodGlucose",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 4,
+      "SensorType": "movement",
+      "Interval": 6,
+      "Value": 1
+    },{
+      "SensorId": 5,
+      "SensorType": "position",
+      "Interval": 6,
+      "Value": 1
+    }
+  ]
+}
+]
