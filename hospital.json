@@ -1,0 +1,12 @@
+[{
+  "Id": 1,
+  "Number of Ambulances": 1,
+  "Latitud": 41.8775,
+  "Longitud": 12.8128
+},
+  {"Id": 2,
+    "Number of Ambulances": 1,
+    "Latitud": 41.8875,
+    "Longitud": 12.8978
+}
+]
