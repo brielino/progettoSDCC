@@ -1,0 +1,114 @@
+[{
+  "Id": 1,
+  "Name": "Paolo",
+  "Surname": "Melissari",
+  "Latitud": 41.8789,
+  "Longitud": 12.8797,
+  "Sensors": [
+    {
+      "SensorId": 1,
+      "SensorType": "bloodPressure",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 2,
+      "SensorType": "heartbeat",
+      "Interval": 4,
+      "Value": 2
+    },
+    {
+      "SensorId": 3,
+      "SensorType": "bloodGlucose",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 4,
+      "SensorType": "movement",
+      "Interval": 6,
+      "Value": 1
+    },{
+      "SensorId": 5,
+      "SensorType": "position",
+      "Interval": 6,
+      "Value": 1
+  }]
+},
+  {"Id": 2,
+  "Name": "Gabriele",
+  "Surname": "Tummolo",
+    "Latitud": 41.8575,
+  "Longitud": 12.9178,
+  "Sensors": [
+    {
+      "SensorId": 1,
+      "SensorType": "bloodPressure",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 2,
+      "SensorType": "heartbeat",
+      "Interval": 4,
+      "Value": 2
+    },
+    {
+      "SensorId": 3,
+      "SensorType": "bloodGlucose",
+      "Interval": 6,
+      "Value": 1
+    },
+    {
+      "SensorId": 4,
+      "SensorType": "movement",
+      "Interval": 6,
+      "Value": 1
+    },{
+      "SensorId": 5,
+      "SensorType": "position",
+      "Interval": 6,
+      "Value": 1
+    }
+  ]
+},
+  {
+    "Id": 3,
+    "Name": "Mario",
+    "Surname": "Rossi",
+    "Latitud": 41.4587,
+    "Longitud": 12.9632,
+    "Sensors": [
+      {
+        "SensorId": 1,
+        "SensorType": "bloodPressure",
+        "Interval": 6,
+        "Value": 1
+      },
+      {
+        "SensorId": 2,
+        "SensorType": "heartbeat",
+        "Interval": 4,
+        "Value": 2
+      },
+      {
+        "SensorId": 3,
+        "SensorType": "bloodGlucose",
+        "Interval": 6,
+        "Value": 1
+      },
+      {
+        "SensorId": 4,
+        "SensorType": "movement",
+        "Interval": 6,
+        "Value": 1
+      },
+      {
+        "SensorId": 5,
+        "SensorType": "position",
+        "Interval": 6,
+        "Value": 1
+      }
+    ]
+  }
+]

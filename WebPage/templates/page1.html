@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Soccorso Emergenza Ospedali Roma</title>
+</head>
+<body>
+<div align="left">
+La situazione è aggiornata alle ore {{ora}}
+    <br>del giorno {{giorno}}
+</div>
+    <table border="2" bordercolor="black" align="center" >
+    <tr><td>Id Ospedale</td><td>Numero ambulanze</td></tr>
+    {% for current_hospital in hospital %}
+        <tr><td>{{current_hospital['Id']}}</td><td>{{current_hospital['NumA']}}</td></tr>
+    {% endfor %}
+    </table>
+    <br>
+    <br>
+    <table border="2" bordercolor="black" align="left" >
+    <tr><td>Id Paziente</td><td>Nome</td><td>Cognome</td></tr>
+    {% for current_patient in patient %}
+        <tr><td>{{current_patient['Id']}}</td><td>{{current_patient['Name']}}</td><td>{{current_patient['Surname']}}</td></tr>
+    {% endfor %}
+    </table>
+
+</body>
+</html>
